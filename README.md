@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
  
  # Getting Started
 1. Clone the repository <br/>
-git clone https://github.com/your-username/Spring-boot-ORM-Spring-Data-JPA.git 
+   git clone https://github.com/your-username/Spring-boot-ORM-Spring-Data-JPA.git  <br/>
 2.Create a database named "orm_db" in MySQL <br/>
 3.Update the application.properties file with your MySQL credentials <br/>
 4.Run the project using the following command <br/> 
